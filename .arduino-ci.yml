@@ -1,0 +1,12 @@
+
+unittest:
+  platforms:
+    - mega2560
+  libraries:
+    - "LiquidCrystal"
+
+compile:
+  platforms:
+    - mega2560
+  libraries:
+    - "LiquidCrystal"
